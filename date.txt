@@ -1,6 +1,0 @@
-5
-100 Ionescu Ion 7.85
-101 Popescu Petre 9.15
-102 Georgescu George 10.00
-103 Ieftimie Liviu 6.50
-104 Vasile Valentin 5.45
